@@ -1,30 +1,16 @@
 ---
-title: "test"
-author: "Nguyen Le Xuan Bach"
-date: "May 11, 2018"
-output: html_document
+title: Poster presentation at the European Conference of Tropical Ecology
+author: Sylvain Schmitt
+date: '2018-03-26'
+slug: poster-presentation-at-the-european-conference-of-tropical-ecology
+categories:
+  - conference
+  - PhD
+tags:
+  - intraspecific variability
+header:
+  caption: ''
+  image: ''
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+I will participate to the [European Conference of Tropical Ecology](https://www.soctropecol-conference.eu/) organized by the GTÖ. More especially, I will present a [poster](files/poster.pdf) at the Symposium on Linking Ecology and Evolution of Tropical tree biodiversity.
